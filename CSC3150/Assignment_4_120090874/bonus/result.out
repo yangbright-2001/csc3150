@@ -1,0 +1,25 @@
+main.cu(88): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(103): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(88): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(103): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(148): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(163): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(166): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(148): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(163): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(166): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(167): error: identifier "printf" is undefined
+
+1 error detected in the compilation of "user_program.cu".
+srun: error: node01: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/120090874/bonus/./test: No such file or directory
